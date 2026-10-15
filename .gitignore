@@ -1,0 +1,19 @@
+# Vivado generated outputs and local state
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.str
+*.zip
+*.bit
+*.bin
+*.dcp
+*.xsa
+*.xpr.backup
+*.bda
+**/ui/
